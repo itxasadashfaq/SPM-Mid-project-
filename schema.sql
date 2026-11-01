@@ -1,0 +1,3 @@
+-- Schema is also initialized automatically by app.py.
+-- Tables: project, requirements, changes, tasks, defects, quality_checks, risks, audit_log.
+-- Start app.py once to create healthcare_pms.db and populate realistic sample data.
